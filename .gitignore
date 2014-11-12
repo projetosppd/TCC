@@ -1,3 +1,17 @@
+# Arquivos temporários LaTeX
+*.aux
+*.bbl
+*.brf
+*.blg
+*.idx
+*.lof
+*.log
+*.lot
+*.toc
+*.pdf
+*.synctex.gz
+figuras/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -26,7 +40,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
